@@ -41,8 +41,8 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("👼 𝙳𝙴𝚅 👼", url='https://telegram.me/Rushidhar1999')
         ],[
-        InlineKeyboardButton('😎 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 😎', url='https://telegram.me/USE_FULL_BOTS'),
-        InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🍂', url='https://telegram.me/USE_FULL_BOTS_SUPPORT')
+        InlineKeyboardButton('😎 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 😎', url='https://telegram.me/USE_FULL_BOTZ'),
+        InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🍂', url='https://telegram.me/USE_FULL_BOTZ_SUPPORT')
         ],[
         InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃 🍃', callback_data='about'),
         InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', callback_data='help')
@@ -90,8 +90,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("👼 𝙳𝙴𝚅 👼", url='https://telegram.me/Rushidhar1999')                
                 ],[
-                InlineKeyboardButton('😎 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 😎', url='https://telegram.me/USE_FULL_BOTS'),
-                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🍂', url='https://telegram.me/USE_FULL_BOTS_SUPPORT')
+                InlineKeyboardButton('😎 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 😎', url='https://telegram.me/USE_FULL_BOTZ'),
+                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🍂', url='https://telegram.me/USE_FULL_BOTZ_SUPPORT')
                 ],[
                 InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃 🍃', callback_data='about'),
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', callback_data='help')
